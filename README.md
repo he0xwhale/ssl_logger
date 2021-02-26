@@ -91,10 +91,10 @@ xxxxxxx
 2. There still exist many bugs in this script,maybe I will fix them latter
 
 ## Bugs Known
-1. The srcHost,dstHost,srcPort,dstPort are all 0s,it is wrong.
+1. The srcHost,dstHost,srcPort,dstPort are all 0,need fix.
 2. It cannot capture all ssl traffics in some apps.
 3. It may crash when recording traffics into pcap file in some apps.
+4. some traffics that can be showed in the terminal aren't been write into the pcap file.
 ## TODO
-1. fix the bug 1
-2. fix the bug 2
-3. fix the bug 3
+1. fix the bug 1,2,3,4
+

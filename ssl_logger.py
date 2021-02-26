@@ -31,7 +31,7 @@ Dependencies:
 """
 
 __author__ = "techbai"
-__version__ = "1.0"
+__version__ = "0.0.1"
 
 
 import argparse
